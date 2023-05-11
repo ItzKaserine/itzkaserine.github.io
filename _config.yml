@@ -5,7 +5,7 @@ url: https://itzkaserine.github.io
 avatar: /KaserLogo_Final.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /backg.jpg
 
 # Gems
 plugins:
